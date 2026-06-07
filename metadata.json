@@ -1,0 +1,6 @@
+{
+  "name": "Trend Analytics & Video Script Creator",
+  "description": "Research social media trends in real-time and automatically generate video scripts, scene instructions, and assembly directions for TikTok, YouTube Shorts, and YouTube long-form videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
